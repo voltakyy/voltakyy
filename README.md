@@ -4,7 +4,7 @@
 
 **Mahasiswa Informatika · Universitas Muhammadiyah Surakarta**
 
-Saya membuat alat belajar yang dipakai di kelas: satu halaman, tanpa akun,
+Saya membuat alat belajar untuk teman sekelas: satu halaman, tanpa akun,
 tanpa build tool, nyaman dibuka dari HP.
 
 [**Ruang Belajar →**](https://voltakyy.github.io) &nbsp;·&nbsp; [Proyek](#proyek-lain) &nbsp;·&nbsp; [Cara saya mengerjakan](#cara-saya-mengerjakan)
@@ -33,7 +33,7 @@ pilih mata kuliah, lalu pilih mau **memahami materi** atau **latihan soal**.
   Bisa dibuka dengan klik dua kali dan tetap jalan bertahun kemudian.
 - **Mobile-first.** Hampir semua teman membukanya dari HP di sela kelas, jadi
   tata letak dimulai dari layar 390px, bukan dari desktop.
-- **Sumbernya materi dosen.** Definisi dikutip dari slide dan arsip soal,
+- **Sumbernya materi dosen.** Definisi penting dikutip dari slide dan arsip soal,
   lengkap dengan penanda halaman — bukan rangkuman blog.
 - **Jujur soal batas.** Kalau slide sebuah pertemuan belum ada, ditulis
   "belum ada". Lebih berguna daripada mengarang isi.
