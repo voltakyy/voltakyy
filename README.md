@@ -46,7 +46,7 @@ pilih mata kuliah, lalu pilih mau **memahami materi** atau **latihan soal**.
 | [gwcatat](https://github.com/voltakyy/gwcatat-aplikasi-kelola-uang) | Pencatatan keuangan pribadi dengan autentikasi | JavaScript, Supabase |
 | [belajar-jepang](https://github.com/voltakyy/belajar-jepang) | Pendamping belajar bahasa Jepang berbasis silabus NHK | TypeScript |
 | [belajar-mandarin](https://github.com/voltakyy/belajar-mandarin) | 90 frasa inti dan 1.000 kalimat HSK 1–3 | JavaScript |
-| [web-belajar-iot-volta](https://github.com/voltakyy/web-belajar-iot-volta) | Materi belajar Internet of Things | React, TypeScript, Tailwind |
+| [materi-matematika](https://github.com/voltakyy/materi-matematika) | Materi limit dan turunan dengan latihan interaktif | HTML, JavaScript |
 
 ## Perangkat
 
