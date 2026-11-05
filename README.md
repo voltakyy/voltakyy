@@ -37,3 +37,20 @@ pilih mata kuliah, lalu pilih mau **memahami materi** atau **latihan soal**.
   lengkap dengan penanda halaman — bukan rangkuman blog.
 - **Jujur soal batas.** Kalau slide sebuah pertemuan belum ada, ditulis
   "belum ada". Lebih berguna daripada mengarang isi.
+
+## Proyek lain
+
+| Proyek | Untuk apa | Stack |
+| --- | --- | --- |
+| [usahagw](https://github.com/voltakyy/usahagw) | Pembukuan UMKM: laba rugi, neraca, jurnal, ekspor Excel | JavaScript, Supabase |
+| [gwcatat](https://github.com/voltakyy/gwcatat-aplikasi-kelola-uang) | Pencatatan keuangan pribadi dengan autentikasi | JavaScript, Supabase |
+| [belajar-jepang](https://github.com/voltakyy/belajar-jepang) | Pendamping belajar bahasa Jepang berbasis silabus NHK | TypeScript |
+| [belajar-mandarin](https://github.com/voltakyy/belajar-mandarin) | 90 frasa inti dan 1.000 kalimat HSK 1–3 | JavaScript |
+| [web-belajar-iot-volta](https://github.com/voltakyy/web-belajar-iot-volta) | Materi belajar Internet of Things | React, TypeScript, Tailwind |
+
+## Perangkat
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Flutter` · `Supabase` · `Python`
+
+Bukan daftar yang saya kuasai semua — ini yang sudah saya pakai untuk mengirim
+sesuatu yang benar-benar bisa dibuka orang lain.
