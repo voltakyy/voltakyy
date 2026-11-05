@@ -54,3 +54,13 @@ pilih mata kuliah, lalu pilih mau **memahami materi** atau **latihan soal**.
 
 Bukan daftar yang saya kuasai semua — ini yang sudah saya pakai untuk mengirim
 sesuatu yang benar-benar bisa dibuka orang lain.
+
+## Sekarang
+
+- Semester 3, Informatika UMS.
+- Merapikan pencarian portal supaya satu kata kunci bisa menembus semua mata kuliah.
+- Menyiapkan modul untuk mata kuliah semester berikutnya.
+
+---
+
+<sub>Portal: [voltakyy.github.io](https://voltakyy.github.io) · Dibuat dan dirawat sendiri, tanpa template. Masukan bisa lewat issue di repo terkait.</sub>
