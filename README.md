@@ -26,3 +26,14 @@ pilih mata kuliah, lalu pilih mau **memahami materi** atau **latihan soal**.
 | **Algoritma & Pemrograman** | Python, flowchart, latihan UTS, simulator tracing NIM | [buka ↗](https://voltakyy.github.io/materi-alpro/) |
 | **Kalkulus & Fungsi** | Soal PG dengan solusi bertahap, modul fungsi & limit | [buka ↗](https://voltakyy.github.io/latihan-kalkulus/) |
 | **Logika & Himpunan** | Gerbang logika, aljabar boolean, tabel kebenaran, himpunan | [buka ↗](https://voltakyy.github.io/materi-lohim/) |
+
+## Cara saya mengerjakan
+
+- **HTML, CSS, JavaScript murni.** Tanpa framework, tanpa build step, tanpa CDN.
+  Bisa dibuka dengan klik dua kali dan tetap jalan bertahun kemudian.
+- **Mobile-first.** Hampir semua teman membukanya dari HP di sela kelas, jadi
+  tata letak dimulai dari layar 390px, bukan dari desktop.
+- **Sumbernya materi dosen.** Definisi dikutip dari slide dan arsip soal,
+  lengkap dengan penanda halaman — bukan rangkuman blog.
+- **Jujur soal batas.** Kalau slide sebuah pertemuan belum ada, ditulis
+  "belum ada". Lebih berguna daripada mengarang isi.
