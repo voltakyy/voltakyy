@@ -47,7 +47,7 @@ const engineer: DeveloperProfile = {
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,react,nextjs,tailwind,html,css,python,supabase,postgres,git,github,vscode,linux,android,figma&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,ts,js,react,nextjs,tailwind,figma,html,css,python,supabase,postgres,git,github,vscode&perline=9&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br/>
