@@ -157,7 +157,7 @@ const engineer: DeveloperProfile = {
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=voltakyy&show_icons=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false" width="100%" alt="Voltaa's GitHub Stats" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=voltakyy&show_icons=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false" width="100%" alt="Voltaa's GitHub Stats" />
       </td>
       <td align="center" width="50%">
         <img src="https://streak-stats.demolab.com/?user=voltakyy&theme=dark&background=0d1117&border=30363d&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" width="100%" alt="Voltaa's GitHub Streak" />
@@ -166,7 +166,7 @@ const engineer: DeveloperProfile = {
     <tr>
       <td colspan="2" align="center">
         <br/>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=voltakyy&layout=compact&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false" width="60%" alt="Top Languages" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=voltakyy&layout=compact&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&border_color=30363d&hide_border=false" width="60%" alt="Top Languages" />
       </td>
     </tr>
   </table>
