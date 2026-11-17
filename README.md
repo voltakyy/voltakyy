@@ -1,12 +1,12 @@
 <div align="center">
   <!-- Capsule Banner Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=190&section=header&text=VOLTAA&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%26%20Web%20Systems%20Engineer%20%7C%20Informatics%20UMS&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=190&section=header&text=VOLTAA&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Mobile%20and%20Web%20Systems%20Engineer%20%7C%20Informatics%20UMS&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <br/>
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/voltakyy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=Mobile+Flutter+%26+Offline-First+Architect;Full-Stack+Web+Builder+%7C+Next.js+%2B+TypeScript;Creator+of+SELF+VOLTA+%26+Ruang+Belajar+UMS;Passionate+about+High-Performance+Client+Apps;Engineering+Software+for+Real-World+Productivity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=Mobile+Flutter+and+Offline-First+Architect;Full-Stack+Web+Builder+%7C+Next.js+%2B+TypeScript;Creator+of+SELF+VOLTA+and+Ruang+Belajar+UMS;Passionate+about+High-Performance+Client+Apps;Engineering+Software+for+Real-World+Productivity" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -15,7 +15,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Surakarta%2C%20Indonesia-0d1117?style=flat-square&logo=googlemaps&logoColor=0ea5e9" alt="Location" />
     <img src="https://img.shields.io/badge/Education-Informatics%20UMS-0d1117?style=flat-square&logo=codeforces&logoColor=0ea5e9" alt="Education" />
-    <img src="https://img.shields.io/badge/Specialty-Flutter%20%26%20Web%20Systems-0d1117?style=flat-square&logo=flutter&logoColor=0ea5e9" alt="Specialty" />
+    <img src="https://img.shields.io/badge/Specialty-Flutter%20and%20Web%20Systems-0d1117?style=flat-square&logo=flutter&logoColor=0ea5e9" alt="Specialty" />
     <img src="https://komarev.com/ghpvc/?username=voltakyy&color=0ea5e9&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
